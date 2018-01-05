@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\fd6f87de247548e3eebef736813935e3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\583571e46e68fd79a2a419315c7c9f55\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\672ebfd8cc7a2d2aea94a6c2d33218ff\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:4:5-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:8:22-65
+application
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:9:5-41:19
+MERGED from [com.android.support:design:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\fd6f87de247548e3eebef736813935e3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\fd6f87de247548e3eebef736813935e3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\583571e46e68fd79a2a419315c7c9f55\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\583571e46e68fd79a2a419315c7c9f55\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\672ebfd8cc7a2d2aea94a6c2d33218ff\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\672ebfd8cc7a2d2aea94a6c2d33218ff\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#in.srain.cube.demos.uctoast.MainActivity
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:17:13-45
+	android:launchMode
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:18:13-48
+	android:theme
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:23:27-74
+service#in.srain.cube.demos.uctoast.ListenClipboardService
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:27:9-31:50
+	android:process
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:31:13-39
+	android:enabled
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:28:13-51
+receiver#in.srain.cube.demos.uctoast.BootCompletedReceiver
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:enabled
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:34:13-50
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:37:13-39:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:38:17-79
+	android:name
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml:38:25-76
+uses-sdk
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\fd6f87de247548e3eebef736813935e3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-23.0.1.aar\fd6f87de247548e3eebef736813935e3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\583571e46e68fd79a2a419315c7c9f55\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\583571e46e68fd79a2a419315c7c9f55\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\672ebfd8cc7a2d2aea94a6c2d33218ff\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\672ebfd8cc7a2d2aea94a6c2d33218ff\AndroidManifest.xml:20:5-43
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\android-UCToast-master\app\src\main\AndroidManifest.xml

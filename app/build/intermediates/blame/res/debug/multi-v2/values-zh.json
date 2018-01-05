@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidStudioProjects\\android-UCToast-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "E:\\AndroidStudioProjects\\android-UCToast-master\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "from": {
+                        "startLines": "2,1,4,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "61,16,152,105",
+                        "endColumns": "43,44,78,46",
+                        "endOffsets": "100,56,226,147"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,99,144,223",
+                        "endColumns": "43,44,78,46",
+                        "endOffsets": "94,139,218,265"
+                    }
+                }
+            ]
+        }
+    ]
+}
